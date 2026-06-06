@@ -8,5 +8,6 @@ mod breaking_records;
 mod migratory_birds;
 mod sock_merchant;
 mod diagonal_difference;
+mod drawing_book;
 
 
