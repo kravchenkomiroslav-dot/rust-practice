@@ -1,6 +1,5 @@
-#[cfg(test)]
-mod hackerrank;
+pub mod hackerrank;
 
 fn main() {
-    println!("We learn Rust!");
+    println!("Проєкт налаштовано!");
 }
