@@ -13,5 +13,6 @@ mod task10;
 mod kangaroo;
 mod between_sets;
 mod breaking_records;
+mod migratory_birds;
 
 
